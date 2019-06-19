@@ -9,7 +9,7 @@ Presentación en Prezi - [aquí](https://prezi.com/view/kFjz9PvYH6cYdMzBUg4m/)
 
 La web esta alojada en la siguiente URL: [http://calendarrmm.epizy.com](http://calendarrmm.epizy.com)
 
-A la documentación se puede acceder desde la siguinte dirección: [http://calendarrmm.epizy.com/documentacion](http://calendarrmm.epizy.com/documentacion) <br>
+La documentación se puede acceder desde la siguinte dirección: [http://calendarrmm.epizy.com/documentacion](http://calendarrmm.epizy.com/documentacion) <br>
 **Usuario:** usuario<br>
 **Contraseña:** basic
 
