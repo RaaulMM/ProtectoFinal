@@ -13,11 +13,13 @@ La documentación se puede acceder desde la siguinte dirección: [http://calenda
 **Usuario:** usuario<br>
 **Contraseña:** basic
 
-## Despliegue
+## Despliegue - maquina virtual
 En el despliegue con máquinas virtuales he utilizado una máquina debiam como servidor y una máquina windows como cliente.
 * Url: www.cooperacion.uma
 * Máquina windowsXP - [windows - Cliente]()
 * Máquina debian8 - [debian8 - server]()
+* Enjaulamiento ftp hecho con el usuario **profesor** y contraseña **profesor** en la maquina debian8
+* Si intentas acceder a www.cooperacion.uma/documentacion te pide usuario: usaurio y coontraseña: basic
 
 ## Herramientas usadas
 * PHP 
