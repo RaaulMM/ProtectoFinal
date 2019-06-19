@@ -1,0 +1,294 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+h1,h2,h3,h4{
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.csesion{
+    padding: 5px 10px;
+    border: 2px solid  rgb(0, 123, 255);
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: rgb(0, 123, 255);
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+}
+.cerrarSesion{
+    text-align: center;
+}
+.bcalendario{
+    padding: 30px 0;
+}
+.csesion:hover{
+    border: 2px solid  rgba(0, 98, 204, 1);
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 98, 204, 1);
+}
+
+
+.CalendarioWeb{
+    padding-top: 50px;
+}
+
+
+.casillaOcupada{
+    text-align: center;
+    padding:0;
+    margin:0;
+}
+.divcentral{
+  width: 500px;
+  border-radius: 10px;
+  overflow: hidden;
+  padding: 55px 55px 37px 55px;
+  background: rgba(255, 255, 255, 0.8);
+  
+}
+
+.wrapper-login{
+    min-width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("https://images.pexels.com/photos/220351/pexels-photo-220351.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.fas{
+    color: rgb(41, 41, 41)
+}
+.login-btn{
+    text-shadow: none;
+    border: 0px;
+    box-shadow: none;
+    color: #555;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 15px;
+    border-radius: 25px;
+    background: #fff;
+    position: relative;
+    z-index: 1;
+    transition: .2s;
+    margin-left: auto;
+}
+.login-btn:hover{
+    cursor: pointer;
+    opacity: .8;
+    color: rgb(255, 255, 255);
+    background-color: rgb(41, 41, 41);
+    }
+.submit{
+    margin: 16px 0;
+    }
+.field{
+    padding-left: 10px;
+    background-color: transparent;
+    border:0;
+    color:rgb(41, 41, 41);
+}
+.field::placeholder{
+    color: rgb(41, 41, 41);
+}
+.usu,.pass{
+    margin-bottom: 16px;
+    border-bottom: 1px solid rgb(41, 41, 41);
+    padding: 5px;
+}
+.link-new{
+    display: block;
+    text-align: end;
+    color: rgb(41, 41, 41);
+    text-decoration: none;
+    transition: .2s;
+    width: fit-content;
+    
+}
+.link-new:hover{
+    opacity: .7;
+}
+.titulo{
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: rgb(41, 41, 41);
+}
+.error{
+    display: block;
+}
+.error{
+    color:red;
+    margin: 10px 0px;
+    padding: 5px 0px;
+    width: fit-content;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.imglogo{
+    padding: 20px 10px;
+    margin: 10px 0px;
+    width: fit-content;
+    border-radius: 5px;
+}
+.txtDescripcion{
+    font-family: 'Open Sans', sans-serif;
+    width: 100%;
+}
+.fechaDesde{
+    display: flex;
+    float: left;
+}
+.fecha,.fechaDesde,.fechaHasta,.textDescrip{
+    margin-bottom: 16px;
+    border-bottom: 1px solid rgb(41, 41, 41);
+    padding: 5px;
+}
+.imput{
+    padding-top: 0px;
+}
+.wrapper-panel{
+    min-width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(143, 143, 143);
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+
+.tuCita{
+    width: 500px;
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 55px 55px 37px 55px;
+    background: rgba(255, 255, 255, 0.8);
+    
+  
+}
+.tuCita ul{
+    text-decoration: none;
+    list-style: none;
+}
+.tituloPanel{
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: rgb(41, 41, 41);
+}
+.pedirCita{
+    display: block;
+
+}
+.botonesPanel{
+    display: block;
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    margin-top: 50px;
+}
+.divpanel{
+    margin-bottom: 5px;
+    border-bottom: 1px solid rgb(41, 41, 41);
+}
+.a{
+    display: block;
+    margin: 5px 0;
+}
+.v{
+    padding: 5px 10px;
+    border: 2px solid  rgb(66, 224, 87);
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: rgb(66, 224, 87);
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+}
+.v:hover{
+    border: 2px solid  rgb(81, 194, 96);
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(81, 194, 96);
+}
+.b{
+    padding: 5px 10px;
+    border: 2px solid  rgb(224, 66, 66);
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: rgb(224, 66, 66);
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+}
+.b:hover{
+    border: 2px solid  rgb(194, 81, 81);
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(194, 81, 81);
+}
+.icono{
+    margin-left: 5px;
+    color: rgb(35, 114, 241);
+    font-size: 1.3em;
+}
+.area{
+    width: -webkit-fill-available;
+    min-height: 113px;
+}
+.bpaneliAdmin{
+    height: fit-content;
+    width: fit-content;
+}
+.todaCitas{
+    border-radius: 10px;
+    padding: 40px 40px 37px 40px;
+    background: rgba(255, 255, 255, 0.8);
+    min-width: 260px;
+    margin-bottom: 2em;
+    max-height: 300px;
+    
+}
+.tablones{
+    max-height: 200px;
+    overflow: auto;
+    padding: 1px;
+}
+.wrapper-panelAdmin{
+    min-width: 100vw;
+    min-height: 100vh;
+    background-color: rgb(143, 143, 143);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.wrapper-container{
+    padding: 1em;
+    margin: 0 auto;
+    max-width: 1300px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items:center;
+    justify-content:space-around;
+}
+.cesion{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 15px;
+}
+.z{
+    width: fit-content;
+    height: fit-content;
+}
