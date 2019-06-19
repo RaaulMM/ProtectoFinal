@@ -16,8 +16,7 @@ La documentación se puede acceder desde la siguinte dirección: [http://calenda
 ## Despliegue - maquina virtual
 En el despliegue con máquinas virtuales he utilizado una máquina debiam como servidor y una máquina windows como cliente.
 * Url: www.cooperacion.uma
-* Máquina windowsXP - [windows - Cliente]()
-* Máquina debian8 - [debian8 - server]()
+* Máquinas windowsXP y debian8- [Las 2 en 1 Exportación](https://drive.google.com/file/d/1GEjk3Gj-oumcEO18g-yqEXsZvwDQ9kcL/view)
 * Enjaulamiento ftp hecho con el usuario **profesor** y contraseña **profesor** en la maquina debian8
 * Si intentas acceder a www.cooperacion.uma/documentacion te pide usuario: usaurio y coontraseña: basic
 
