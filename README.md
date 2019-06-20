@@ -9,6 +9,12 @@ Presentación en Prezi - [aquí](https://prezi.com/view/kFjz9PvYH6cYdMzBUg4m/)
 
 La web esta alojada en la siguiente URL: [http://calendarrmm.epizy.com](http://calendarrmm.epizy.com)
 
+* **usuario normal:** usuario
+* **contraseña :** 1234
+
+* **usuario admin:** admin
+* **contraseña :** 1234
+
 La documentación se puede acceder desde la siguinte dirección: [http://calendarrmm.epizy.com/documentacion](http://calendarrmm.epizy.com/documentacion) <br>
 **Usuario:** usuario<br>
 **Contraseña:** basic
@@ -28,6 +34,9 @@ En el despliegue con máquinas virtuales he utilizado una máquina debiam como s
 * jQuery
 
 ## Explicación de la app
+
+
+
 * Pagina de login.<br>
 ![](/Fotos%20proyecto/1.png)
 * Al registrarse el usuario puede acceder y gestionar su propia cita en un calendario interactivo.<br>
